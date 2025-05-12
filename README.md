@@ -75,7 +75,7 @@ No spreadsheets, no guesswork — just total control in a clean UI.
 
 ## 📷 Preview
 
-![Dashboard Preview](https://source.unsplash.com/1200x300/?workspace)
+![Dashboard Preview] https://zesty-chimera-bb59a4.netlify.app/  
 > This project uses image placeholders from [Unsplash](https://unsplash.com)
 
 ---
